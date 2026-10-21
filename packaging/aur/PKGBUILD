@@ -1,10 +1,10 @@
-# Maintainer: TheWhyteWolf <lordwhyte at gmail dot com>
+# Maintainer: allthemalware <lordwhyte at gmail dot com>
 pkgname=minerva-fm
 pkgver=0.1.1
 pkgrel=1
 pkgdesc="Retro video game music radio for your terminal (SPC, VGM, NSF, MOD, and more)"
 arch=('x86_64' 'aarch64')
-url="https://github.com/TheWhyteWolf/MiNERVA-FM-Term"
+url="https://github.com/allthemalware/MiNERVA-FM-Term"
 license=('MIT' 'LGPL-2.1-or-later' 'GPL-2.0-or-later')
 depends=('gcc-libs' 'alsa-lib' 'libopenmpt' 'libsidplayfp')
 makedepends=('cargo')

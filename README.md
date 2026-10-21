@@ -98,5 +98,5 @@ game-music-emu 0.6.6 is vendored under `vendor/gme/` and built statically by
 ## Family
 
 - `minerva-radio.sh` — the original shell/tmux radio this look comes from
-- [MiNERVA-FM-Local](https://github.com/TheWhyteWolf/MiNERVA-FM-Local) — the
+- [MiNERVA-FM-Local](https://github.com/allthemalware/MiNERVA-FM-Local) — the
   browser/CRT edition sharing the same engines compiled to WebAssembly
