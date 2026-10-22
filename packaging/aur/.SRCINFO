@@ -16,6 +16,6 @@ pkgbase = minerva-fm
 	options = !lto
 	options = !debug
 	source = minerva-fm-0.1.1.tar.gz::https://github.com/allthemalware/MiNERVA-FM-Term/archive/v0.1.1.tar.gz
-	sha256sums = f58c1c1593c4074cf306e25bfc47c35166eca325ca3615d388b4504594392d44
+	sha256sums = c6fd037c1ae0e9774a600c3bcefbaf8e552097d67c2e2a5dc31293d38b940bcd
 
 pkgname = minerva-fm
